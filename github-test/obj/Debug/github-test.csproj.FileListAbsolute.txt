@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\github-test\github-test\bin\Debug\github-test.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\github-test\github-test\bin\Debug\github-test.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\github-test\github-test\bin\Debug\github-test.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\github-test\github-test\obj\Debug\github-test.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\github-test\github-test\obj\Debug\github-test.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\github-test\github-test\obj\Debug\github-test.pdb
